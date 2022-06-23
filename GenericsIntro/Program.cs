@@ -1,13 +1,14 @@
 ﻿using System;
 
-namespace Matematik
+namespace GenericsIntro
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            DortIslem dortIslem = new DortIslem();
-            dortIslem.Topla(17, 5);
+            MyList <string> isimler  = new MyList<string>();
+            isimler.Add("Engin");
+
 
 
         }
