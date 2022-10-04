@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractInstance", "Abstrac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{E1279ADC-3907-4269-A461-EB21F5C6AEF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo5", "Demo5\Demo5.csproj", "{FC69F2CD-B293-4D74-9C02-BD8ACC9C5949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo5", "Demo5\Demo5.csproj", "{FC69F2CD-B293-4D74-9C02-BD8ACC9C5949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{2E965209-A738-4678-A018-3CB8E2D537F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{FC69F2CD-B293-4D74-9C02-BD8ACC9C5949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC69F2CD-B293-4D74-9C02-BD8ACC9C5949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC69F2CD-B293-4D74-9C02-BD8ACC9C5949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E965209-A738-4678-A018-3CB8E2D537F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E965209-A738-4678-A018-3CB8E2D537F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E965209-A738-4678-A018-3CB8E2D537F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E965209-A738-4678-A018-3CB8E2D537F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
